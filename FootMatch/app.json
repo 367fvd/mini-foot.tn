@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "FootMatch",
+    "slug": "footmatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#16a34a",
+    "splash": {
+      "backgroundColor": "#16a34a",
+      "resizeMode": "contain"
+    },
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#16a34a"
+      }
+    }
+  }
+}
